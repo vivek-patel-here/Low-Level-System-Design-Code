@@ -12,7 +12,7 @@
 #include <cmath>
 using namespace std;
 
-// Interface Segregattion principle says that :
+// Interface Segreggation principle says that :
 // - Instead making single general purpose class , make multiple specific classes.
 // - Child class must not forced to implement the method they donot need.
 
